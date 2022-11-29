@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    color: white;
+}
+
+header{
+    height:45vh ;
+    width:100vw ;
+    background-color: #129799;
+}
+main{
+    height: ;
+    width: ;
+    background-color: #FFA185;
+}
+footer{
+    height: ;
+    width: ;
+    background-color: #129799;
+
+}
+section{
+    display: flex;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    width: 45%;
+    height: 9vh;
+    border: 3px solid gray;
+    align-items: flex-end;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    border: 1px solid black;
+    height: 6vh;
+    width: 100%;
+    
+    
+
+}
+li{
+    border: 1px solid black;
+    text-decoration: none;
+    
+}
+a{
+    text-decoration: none;
+}
+.secTopo img{
+    width: 50%;
+    height: 80%;
+    border: 1px solid black;
+    
+}
+.rolinho_Prima{
+    flex-wrap: wrap;
+
+}
+.secTopo{
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 90vw;
+    height: 32vh;
+}
+.redes{
+    
+}
